@@ -4,7 +4,7 @@
 
 \### 🖼️ Preview
 
-!\[Figma Preview]('./images/ElectronsShop.png')
+!\[Figma Preview](./images/ElectronsShop.png)
 
 
 
